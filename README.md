@@ -14,7 +14,7 @@ npm install typescript jest ts-jest @types/jest --save-dev
 ```bash
 npx ts-jest config:init
 ```
-6. Update your package.json scripts:
+6. Update package.json scripts:
 ```typescript
 "scripts": {
   "test": "jest"
