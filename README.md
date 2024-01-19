@@ -2,7 +2,7 @@
 <ol>
   <li>Create a new project<br>
     ```bash
-    npm init -y
+      npm init -y
     ```
   </li>
   <li>Write merge.ts in folder src</li>
