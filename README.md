@@ -11,16 +11,16 @@ npm install typescript jest ts-jest @types/jest --save-dev
 3. Write merge.ts in the src folder
 4. write merge.test.ts in the test folder
 5. Initialize Jest configuration
-6. ```bash
+```bash
 npx ts-jest config:init
 ```
-7.Update your package.json scripts:
+6. Update your package.json scripts:
 ```typescript
 "scripts": {
   "test": "jest"
 }
 ```
-8.Run the test
+7. Run the test
 ```bash
 npm test
 ```
